@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Who is the main protagonist of Jujutsu Kaisen?",
+        "answers": [
+            {"text": "Yuji Itadori", "correct": true},
+            {"text": "Megumi Fushiguro", "correct": false},
+            {"text": "Nobara Kugisaki", "correct": false},
+            {"text": "Satoru Gojo", "correct": false}
+        ]
+    },
+    {
+        "question": "What is the name of the curse that Yuji Itadori swallows?",
+        "answers": [
+            {"text": "Ryomen Sukuna", "correct": true},
+            {"text": "Jogo", "correct": false},
+            {"text": "Mahito", "correct": false},
+            {"text": "Hanami", "correct": false}
+        ]
+    },
+    {
+        "question": "Who is the teacher of Yuji, Megumi, and Nobara?",
+        "answers": [
+            {"text": "Satoru Gojo", "correct": true},
+            {"text": "Kento Nanami", "correct": false},
+            {"text": "Aoi Todo", "correct": false},
+            {"text": "Suguru Geto", "correct": false}
+        ]
+    },
+    {
+        "question": "Which organization does Yuji Itadori join?",
+        "answers": [
+            {"text": "Jujutsu High", "correct": true},
+            {"text": "Tokyo Metropolitan Curse Technical College", "correct": false},
+            {"text": "Zenin Clan", "correct": false},
+            {"text": "Kamo Clan", "correct": false}
+        ]
+    },
+    {
+        "question": "What grade sorcerer is Megumi Fushiguro?",
+        "answers": [
+            {"text": "Grade 2", "correct": true},
+            {"text": "Grade 1", "correct": false},
+            {"text": "Semi-Grade 1", "correct": false},
+            {"text": "Special Grade", "correct": false}
+        ]
+    },
+    {
+        "question": "What is Nobara Kugisaki's weapon of choice?",
+        "answers": [
+            {"text": "Hammer and Nails", "correct": true},
+            {"text": "Sword", "correct": false},
+            {"text": "Fists", "correct": false},
+            {"text": "Spear", "correct": false}
+        ]
+    },
+    {
+        "question": "Which curse technique does Satoru Gojo use?",
+        "answers": [
+            {"text": "Limitless", "correct": true},
+            {"text": "Infinity", "correct": false},
+            {"text": "Domain Expansion", "correct": false},
+            {"text": "Cursed Speech", "correct": false}
+        ]
+    },
+    {
+        "question": "What is the special grade curse that appears in the Juvenile Detention Center arc?",
+        "answers": [
+            {"text": "Finger Bearer", "correct": true},
+            {"text": "Mahito", "correct": false},
+            {"text": "Hanami", "correct": false},
+            {"text": "Jogo", "correct": false}
+        ]
+    },
+    {
+        "question": "Who is the principal of Tokyo Jujutsu High?",
+        "answers": [
+            {"text": "Masamichi Yaga", "correct": true},
+            {"text": "Gakuganji Yoshinobu", "correct": false},
+            {"text": "Kiyotaka Ijichi", "correct": false},
+            {"text": "Mei Mei", "correct": false}
+        ]
+    },
+    {
+        "question": "What is the name of Yuji's grandfather?",
+        "answers": [
+            {"text": "Wasuke Itadori", "correct": true},
+            {"text": "Junpei Yoshino", "correct": false},
+            {"text": "Jin Itadori", "correct": false},
+            {"text": "Yoshinobu Gakuganji", "correct": false}
+        ]
+    },
+    {
+        "question": "What is the name of the domain expansion used by Satoru Gojo?",
+        "answers": [
+            {"text": "Unlimited Void", "correct": true},
+            {"text": "Coffin of the Iron Mountain", "correct": false},
+            {"text": "Malevolent Shrine", "correct": false},
+            {"text": "Horizon of the Captivating Skies", "correct": false}
+        ]
+    },
+    {
+        "question": "Who has the power of Cursed Speech?",
+        "answers": [
+            {"text": "Toge Inumaki", "correct": true},
+            {"text": "Mai Zenin", "correct": false},
+            {"text": "Maki Zenin", "correct": false},
+            {"text": "Panda", "correct": false}
+        ]
+    },
+    {
+        "question": "What is the name of the technique used by Megumi Fushiguro?",
+        "answers": [
+            {"text": "Ten Shadows Technique", "correct": true},
+            {"text": "Projection Sorcery", "correct": false},
+            {"text": "Blood Manipulation", "correct": false},
+            {"text": "Straw Doll Technique", "correct": false}
+        ]
+    },
+    {
+        "question": "Who is the special grade curse that can transform humans into curses?",
+        "answers": [
+            {"text": "Mahito", "correct": true},
+            {"text": "Jogo", "correct": false},
+            {"text": "Hanami", "correct": false},
+            {"text": "Dagon", "correct": false}
+        ]
+    },
+    {
+        "question": "What is the name of the school rivalry event in Jujutsu Kaisen?",
+        "answers": [
+            {"text": "Kyoto Goodwill Event", "correct": true},
+            {"text": "Tokyo High Tournament", "correct": false},
+            {"text": "Sorcerer Showdown", "correct": false},
+            {"text": "Cursed Clash", "correct": false}
+        ]
+    },
+    {
+        "question": "What weapon does Maki Zenin specialize in?",
+        "answers": [
+            {"text": "Cursed Tools", "correct": true},
+            {"text": "Bow and Arrow", "correct": false},
+            {"text": "Cursed Corpse", "correct": false},
+            {"text": "Katana", "correct": false}
+        ]
+    },
+    {
+        "question": "Which character has a panda form?",
+        "answers": [
+            {"text": "Panda", "correct": true},
+            {"text": "Toge Inumaki", "correct": false},
+            {"text": "Aoi Todo", "correct": false},
+            {"text": "Kento Nanami", "correct": false}
+        ]
+    },
+    {
+        "question": "What is the name of the technique used by Nanami Kento?",
+        "answers": [
+            {"text": "Ratio Technique", "correct": true},
+            {"text": "Infinity", "correct": false},
+            {"text": "Black Flash", "correct": false},
+            {"text": "Boogie Woogie", "correct": false}
+        ]
+    },
+    {
+        "question": "What is the full name of the cursed object Sukuna is associated with?",
+        "answers": [
+            {"text": "Ryomen Sukuna", "correct": true},
+            {"text": "Jogo", "correct": false},
+            {"text": "Mahito", "correct": false},
+            {"text": "Hanami", "correct": false}
+        ]
+    },
+    {
+        "question": "What technique does Aoi Todo use?",
+        "answers": [
+            {"text": "Boogie Woogie", "correct": true},
+            {"text": "Projection Sorcery", "correct": false},
+            {"text": "Blood Manipulation", "correct": false},
+            {"text": "Simple Domain", "correct": false}
+        ]
+    }
+]
